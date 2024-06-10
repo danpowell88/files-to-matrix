@@ -1,14 +1,14 @@
 {
   "imports": {
-    "@actions/core": "https://ga.jspm.io/npm:@actions/core@1.6.0/lib/core.js",
+    "@actions/core": "https://ga.jspm.io/npm:@actions/core@1.10.1/lib/core.js",
     "fs": "https://deno.land/std@0.120.0/fs/mod.ts",
     "path": "https://deno.land/std@0.120.0/path/mod.ts",
     "glob": "https://deno.land/std@0.120.0/path/glob.ts"
   },
   "scopes": {
     "https://ga.jspm.io/": {
-      "@actions/http-client": "https://ga.jspm.io/npm:@actions/http-client@1.0.11/index.js",
-      "@actions/http-client/auth": "https://ga.jspm.io/npm:@actions/http-client@1.0.11/auth.js",
+      "@actions/http-client": "https://ga.jspm.io/npm:@actions/http-client@2.2.1/index.js",
+      "@actions/http-client/auth": "https://ga.jspm.io/npm:@actions/http-client@2.2.1/auth.js",
       "assert": "https://deno.land/std@0.120.0/node/assert.ts",
       "buffer": "https://deno.land/std@0.120.0/node/buffer.ts",
       "events": "https://deno.land/std@0.120.0/node/events.ts",
